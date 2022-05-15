@@ -1,4 +1,2 @@
-# odin-recipes
-This is a website containing recipes. It is for The Odin Project (https://www.theodinproject.com/about).
-
-View the website here: https://dillonyu.github.io/odin-recipes/
+# recipe-site
+A site containing recipes for delicious food! View the website here: https://dillonyu.github.io/odin-recipes/
