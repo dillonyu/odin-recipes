@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe website for The Odin Project.
+This is a website containing recipes. It is for The Odin Project (https://www.theodinproject.com/about).
