@@ -1,0 +1,15 @@
+@font-face {
+    font-family: courgette;
+    src: url(Courgette.ttf)
+}
+
+#logo {
+    text-align: center;
+    font-family: courgette, sans-serif;
+    font-size: 50px;
+    color: goldenrod;
+}
+
+body {
+    background-color: rgb(16, 17, 22);
+}
