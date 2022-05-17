@@ -29,10 +29,6 @@
     font-size: 40px;
 }
 
-.homepage-list {
-    display: flex;
-}
-
 * {
     background-color: rgb(16, 17, 22);
     color: rgb(233, 237, 240);
