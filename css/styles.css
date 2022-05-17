@@ -21,7 +21,14 @@
 
 .home-link a {
     color: white;
-    margin: 10px;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid goldenrod;
+    text-decoration: none;
+}
+
+.home-link a:hover {
+    color: goldenrod;
 }
 
 .recipe-title {
